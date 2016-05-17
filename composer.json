@@ -1,5 +1,5 @@
 {
-    "name": "outeredge/swagger-module",
+    "name": "wfelipew/swagger-module",
 	"description": "Zend Framework 2 Module for Swagger resource file generation",
 	"type": "library",
 	"license": "Apache-2.0",
@@ -12,7 +12,7 @@
 	],
     "require": {
 		"php": ">=5.3.3",
-		"zircote/swagger-php": "~2.0"
+		"zircote/swagger-php": "*"
     },
 	"autoload": {
 		"psr-0": {
